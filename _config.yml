@@ -23,12 +23,12 @@ repository               : "KilianBARREIRO/KilianBARREIRO.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpg"
   name             : "Kilian BARREIRO"
   pronouns         : # example: "she/her"  
-  bio              : "List of "
+  bio              : "Biographic informations and networks."
   location         : "France"
-  employer         : "None"
+  employer         : "Aix-Marseille University"
   uri              : # URL
   email            : "kiliangrihaultbarreiro@gmail.com" 
 

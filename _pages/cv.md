@@ -60,12 +60,12 @@ Education
 - Python (2+ years) – modeling, particle tracking, data wrangling  
 - LaTeX (5+ years)  
 - QGIS (2 years)  
-- GitHub (2+ years, version control & collaboration)
+- GitHub (2+ years, version control & collaboration, GitLab, Desktop)
 
 **Languages**  
 - Français (native)  
-- English (B2/C1 – professional working proficiency)  
-- Español (intermediate)
+- English (C1 – professional working proficiency)  
+- Español (B1 - intermediate)
 
 ## Publications
 

@@ -2,7 +2,7 @@
 title: "Large and fine-scale biodiversity patterns of marine and terrestrial fauna across wide-spread, fragmented territories: assessing inherent challenges of data scarcity."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025 Barreiro et al. Biodiversity
 date: 2025-07-01
 venue: 'Scientific Reports (Springer Nature)'
 paperurl: 'https://kilianBARREIRO.github.io/files/2025BarreiroPaper.pdf'

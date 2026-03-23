@@ -1,0 +1,15 @@
+/* Remplace le vert mint dégueulasse par notre vert émeraude */
+a,
+a:visited {
+  color: #2d7a5f;
+}
+
+a:hover,
+a:focus {
+  color: #1f5c47;
+}
+
+.nav__list a,
+.masthead__menu-item a {
+  color: #2d7a5f;
+}

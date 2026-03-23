@@ -10,41 +10,51 @@ redirect_from:
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@300;400&display=swap');
 
+/* ── Palette Sunrise (beige/sable, accents orangés) ── */
+:root {
+  --kb-accent:        #e08c3a;
+  --kb-accent-bg:     rgba(224,140,58,0.08);
+  --kb-accent-border: rgba(224,140,58,0.30);
+  --kb-warm2:         #b85c20;
+  --kb-heading:       #2e1f0e;
+  --kb-muted:         #7a6650;
+}
+
 .kb-eyebrow {
   font-family: 'DM Mono', monospace;
-  font-size: 0.72rem;
-  letter-spacing: 0.2em;
+  font-size: 0.70rem;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: #2e8b76;
+  color: var(--kb-accent);
   margin-bottom: 0.3rem;
 }
 
 .kb-hero-name {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 2.8rem;
+  font-size: clamp(2rem, 5vw, 2.8rem);
   font-weight: 400;
   line-height: 1.15;
   margin: 0.2rem 0 0.8rem;
-  color: #1a1a2e;
+  color: var(--kb-heading);
 }
 
 .kb-tagline {
-  font-size: 1.05rem;
-  color: #555;
-  border-left: 3px solid #2e8b76;
+  font-size: 1rem;
+  color: var(--kb-muted);
+  border-left: 3px solid var(--kb-accent);
   padding-left: 1rem;
   margin-bottom: 2.5rem;
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
 .kb-section-label {
   font-family: 'DM Mono', monospace;
-  font-size: 0.68rem;
+  font-size: 0.66rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: #2e8b76;
+  color: var(--kb-accent);
   margin-top: 2.5rem;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.3rem;
 }
 
 .kb-tags {
@@ -56,16 +66,16 @@ redirect_from:
 
 .kb-tag {
   font-family: 'DM Mono', monospace;
-  font-size: 0.72rem;
-  color: #2e8b76;
-  border: 1px solid rgba(46,139,118,0.35);
-  background: rgba(46,139,118,0.07);
+  font-size: 0.70rem;
+  color: var(--kb-accent);
+  border: 1px solid var(--kb-accent-border);
+  background: var(--kb-accent-bg);
   padding: 0.25rem 0.7rem;
   border-radius: 2px;
 }
 
 .kb-timeline-item {
-  border-left: 2px solid rgba(46,139,118,0.3);
+  border-left: 2px solid var(--kb-accent-border);
   padding-left: 1.2rem;
   margin-bottom: 1.6rem;
   position: relative;
@@ -79,31 +89,31 @@ redirect_from:
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #2e8b76;
+  background: var(--kb-accent);
 }
 
 .kb-timeline-degree {
   font-weight: 600;
-  color: #1a1a2e;
+  color: var(--kb-heading);
   margin-bottom: 0.1rem;
 }
 
 .kb-timeline-institution {
   font-family: 'DM Mono', monospace;
-  font-size: 0.78rem;
-  color: #c97b3a;
+  font-size: 0.76rem;
+  color: var(--kb-warm2);
   margin-bottom: 0.3rem;
 }
 
 .kb-highlight {
-  background: rgba(46,139,118,0.06);
-  border: 1px solid rgba(46,139,118,0.2);
+  background: var(--kb-accent-bg);
+  border: 1px solid var(--kb-accent-border);
   border-radius: 4px;
   padding: 1rem 1.3rem;
   margin: 1.5rem 0;
   font-style: italic;
-  color: #444;
-  line-height: 1.75;
+  color: var(--kb-muted);
+  line-height: 1.8;
 }
 </style>
 
@@ -147,25 +157,4 @@ During my Master's, conducted under the aegis of the interdisciplinary research 
   Today, I am committed to applying this expertise to marine biodiversity conservation and environmental protection.
   I welcome collaborations in research, environmental management, or science communication —
   feel free to reach out to discuss potential opportunities.
-</div>
-
----
-
-<p class="kb-section-label">✦ Education</p>
-
-## Academic formation
-
-<div class="kb-timeline-item">
-  <div class="kb-timeline-degree">MSc — Mathematical &amp; Computational Biology</div>
-  <div class="kb-timeline-institution">Aix-Marseille University · CENTURI</div>
-  Thesis: <em>Biodiversity patterns of marine and terrestrial biogeography in French Polynesia.</em>
-  Two research internships at IFREMER on spatio-temporal dynamics of marine ecosystems.
-  Graduated with honours.
-</div>
-
-<div class="kb-timeline-item">
-  <div class="kb-timeline-degree">BSc — Mathematics (Major) &amp; Mechanics (Minor)</div>
-  <div class="kb-timeline-institution">University of Nîmes</div>
-  Foundations in mathematical analysis, logic, calculus, physics and mechanics.
-  Graduated with honours.
 </div>

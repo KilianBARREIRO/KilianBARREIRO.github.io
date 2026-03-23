@@ -30,7 +30,7 @@ redirect_from:
 
 .kb-hero-name {
   font-family: 'Cormorant Garamond', serif;
-  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
   font-weight: 400;
   line-height: 1.15;
   margin: 0.2rem 0 0.8rem;

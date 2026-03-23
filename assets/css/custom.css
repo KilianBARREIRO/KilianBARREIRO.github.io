@@ -13,3 +13,8 @@ a:focus {
 .masthead__menu-item a {
   color: #2d7a5f;
 }
+
+/* ── Titres moins imposants ── */
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.3rem; }
+h3 { font-size: 1.1rem; }

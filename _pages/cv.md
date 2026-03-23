@@ -294,25 +294,6 @@ redirect_from:
 
 ---
 
-<p class="kb-section-label">✦ Publications</p>
-
-<div class="kb-publi-item">
-  <strong>Barreiro et al. (2025)</strong> — Large and fine-scale biodiversity patterns of marine and terrestrial fauna across wide-spread, fragmented territories: assessing inherent challenges of data scarcity.<br>
-  <em>Scientific Reports</em> · <a href="https://doi.org/10.1038/s41598-025-06631-4">doi:10.1038/s41598-025-06631-4</a>
-</div>
-
-<div class="kb-publi-item">
-  <strong>Barreiro et al. (2024)</strong> — Marine and terrestrial species occurrence data for French Polynesia.<br>
-  <em>SEANOE</em> · <a href="https://doi.org/10.17882/99018">doi:10.17882/99018</a>
-</div>
-
-<div class="kb-publi-item">
-  <strong>Richardson et al. (2024)</strong> (co-author) — Developing tools in R and Shiny to support research and accelerate the development of conservation plans.<br>
-  <em>IMCC7 Conference Abstract, Cape Town</em>
-</div>
-
----
-
 <p class="kb-section-label">✦ Achievements &amp; Extracurricular</p>
 
 <div class="kb-achieve-grid">

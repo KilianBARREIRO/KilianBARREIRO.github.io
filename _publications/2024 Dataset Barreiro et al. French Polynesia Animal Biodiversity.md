@@ -4,7 +4,6 @@ collection: publications
 category: datasets
 permalink: /publication/2025-barreiro-dataset
 date: 2024-01-01
-paperurl: 'https://doi.org/10.17882/99018'
 venue: 'Seanoe'
 excerpt: 'First biogeographic dataset for marine and terrestrial animal species in French Polynesia, curated from GBIF and complementary sources across 119 islands and atolls of the Central Pacific.'
 ---

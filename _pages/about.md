@@ -10,14 +10,13 @@ redirect_from:
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@300;400&display=swap');
 
-/* ── Palette Sunrise (beige/sable, accents orangés) ── */
 :root {
-  --kb-accent:        #e08c3a;
-  --kb-accent-bg:     rgba(224,140,58,0.08);
-  --kb-accent-border: rgba(224,140,58,0.30);
-  --kb-warm2:         #b85c20;
-  --kb-heading:       #2e1f0e;
-  --kb-muted:         #7a6650;
+  --kb-accent:        #2d7a5f;   /* vert émeraude */
+  --kb-accent-bg:     rgba(45,122,95,0.07);
+  --kb-accent-border: rgba(45,122,95,0.25);
+  --kb-gold:          #a07840;   /* doré discret pour institutions */
+  --kb-heading:       #1a1a1a;
+  --kb-muted:         #6b6b6b;
 }
 
 .kb-eyebrow {
@@ -101,7 +100,7 @@ redirect_from:
 .kb-timeline-institution {
   font-family: 'DM Mono', monospace;
   font-size: 0.76rem;
-  color: var(--kb-warm2);
+  color: var(--kb-gold);
   margin-bottom: 0.3rem;
 }
 

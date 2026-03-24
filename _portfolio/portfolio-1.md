@@ -73,7 +73,7 @@ collection: portfolio
 
 <p class="kb-section-label">✦ Context</p>
 
-This project was carried out during my research position at the **University of Aberdeen** (School of Natural & Computing Sciences), under the supervision of Dr. Juliano Morimoto, as part of an Origins of Life investigation. The work explores how nucleotide composition constraints shape amino acid distributions in synthetic RNA sequences — a question directly relevant to early molecular evolution.
+This project was carried out as a research collaboration project with the **University of Aberdeen** (School of Natural & Computing Sciences), under the supervision of Dr. Juliano Morimoto, as part of the Origins of Life project investigation. The work explores how nucleotide composition constraints shape amino acid distributions in synthetic RNA sequences — a question directly relevant to early molecular evolution.
 
 <p class="kb-section-label">✦ Tools & Skills</p>
 

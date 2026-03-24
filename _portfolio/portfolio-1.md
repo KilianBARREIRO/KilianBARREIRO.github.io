@@ -1,6 +1,7 @@
 ---
 title: "RNA World — Codon Bias & Amino Acid Symmetry"
-excerpt: "A simulation framework in R to generate synthetic RNA sequences across five nucleotide profiles and explore codon redundancy, nucleotide biases, melting temperatures and amino acid distributions.<br/><img src='/images/portfolio_rnaworld_display.jpg'>"
+excerpt: "A simulation framework in R to generate synthetic RNA sequences across five nucleotide profiles and explore codon redundancy, nucleotide biases, melting temperatures and amino acid distributions.<br/><img src='/images/portfolio_rnaworld_display.jpg'>
+Figure 4: Most highly deviated amino acids from the balanced codon usage profile, illustrating shifts in amino acid frequenceis under AT- and GC-biased scenarios."
 collection: portfolio
 ---
 

@@ -197,7 +197,7 @@ redirect_from:
 <div class="kb-timeline-item">
   <div class="kb-timeline-degree">BSc — Mathematics (Major) &amp; Mechanics (Minor)</div>
   <div class="kb-timeline-institution">University of Nîmes</div>
-  <div class="kb-timeline-date">2018 – 2021</div>
+  <div class="kb-timeline-date">2017 – 2020</div>
   <div class="kb-timeline-detail">
     Foundations in mathematical analysis, logic, calculus, physics and mechanics.
     Graduated with honours.

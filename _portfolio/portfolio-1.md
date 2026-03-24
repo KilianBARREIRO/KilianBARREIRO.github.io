@@ -1,7 +1,6 @@
 ---
 title: "RNA World — Codon Bias & Amino Acid Symmetry"
-excerpt: "A simulation framework in R to generate synthetic RNA sequences across five nucleotide profiles and explore codon redundancy, nucleotide biases, melting temperatures and amino acid distributions.<br/><img src='/images/portfolio_rnaworld_display.jpg'>
-Figure 4: Most highly deviated amino acids from the balanced codon usage profile, illustrating shifts in amino acid frequenceis under AT- and GC-biased scenarios."
+excerpt: "A simulation framework in R to generate synthetic RNA sequences across five nucleotide profiles and explore codon redundancy, nucleotide biases, melting temperatures and amino acid distributions.<br/><img src='/images/portfolio_rnaworld_display.jpeg' width='600' height='400' style='display: block; clear: both; margin: 12px 0 12px 0;'>Figure 4: Most highly deviated amino acids from the balanced codon usage profile, illustrating shifts in amino acid frequenceis under AT- and GC-biased scenarios."
 collection: portfolio
 ---
 
@@ -95,7 +94,7 @@ This project was carried out during my research position at the **University of 
   Strong positive correlation between codon redundancy and amino acid frequency (ρ up to 0.75), particularly under balanced and GC-rich conditions. Nucleotide bias shifts amino acid composition predictably — GC-rich profiles favour Proline, Glycine and Alanine, while AU-rich conditions enrich Isoleucine and Asparagine. Despite these biases, strand compositional symmetry is preserved as sequence length increases.
 </div>
 
-![Key result — amino acid deviations across nucleotide profiles](/images/portfolio_rnaworld_display.jpg)
+![Key result — amino acid deviations across nucleotide profiles](/images/portfolio_rnaworld_display.jpeg)
 
 <p class="kb-section-label">✦ Report</p>
 

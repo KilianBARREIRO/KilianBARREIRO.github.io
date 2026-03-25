@@ -103,7 +103,7 @@ My contributions were merged from my development branch (`develKGB`) and are vis
   🔗 My GitHub fork (with my contributions)
 </a>
 <a class="kb-download" href="https://github.com/KilianBARREIRO/spatialplanr/commits/main?author=KilianBARREIRO">
-  👤 My 20 commits
+  👤 My commits
 </a>
 <a class="kb-download" href="https://mathmarecol.github.io/spatialplanr/">
   📖 Official documentation site (pkgdown)

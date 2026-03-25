@@ -1,6 +1,6 @@
 ---
 title: "spatialplanr — R Package for Spatial Conservation Planning"
-excerpt: "Development of an open-source R package to streamline spatial conservation planning workflows using prioritizr at the Mathematical Marine Ecology Lab (University of Queensland).<br/><img src='/images/portfolio_spatialplanr_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Participation in the development of an open-source R package to streamline spatial conservation planning workflows using prioritizr at the Mathematical Marine Ecology Lab (University of Queensland).<br/><img src='/images/portfolio_spatialplanr_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 
@@ -92,10 +92,10 @@ My contributions were merged from my development branch (`develKGB`) and are vis
 <div class="kb-highlight">
   • Developed and improved core functions (e.g., <code>splnr_get_gfw</code>, <code>splnr_get_distCoast</code>, <code>splnr_get_MPAs</code>, and plotting utilities)<br>
   • Implemented extensive input validation to enhance package robustness<br>
-  • Created and updated vignettes (including GlobalFishingWatch integration) and Rd documentation<br>
+  • Created and updated vignettes (including <strong>GlobalFishingWatch</strong> integration) and Rd documentation<br>
   • Added unit tests and fixed errors/warnings<br>
   • Contributed to overall package structure and successfully merged the development branch<br><br>
-  <strong>20 personal commits</strong> visible on the repository.
+  <strong>Personal commits</strong> visible on the repository and and a name mentioned in several code files I’ve worked on (functions, vignettes, etc.).
 </div>
 
 <p class="kb-section-label">✦ Outputs & Links</p>

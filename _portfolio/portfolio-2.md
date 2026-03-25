@@ -95,7 +95,7 @@ My contributions were merged from my development branch (`develKGB`) and are vis
   • Created and updated vignettes (including <strong>GlobalFishingWatch</strong> integration) and Rd documentation<br>
   • Added unit tests and fixed errors/warnings<br>
   • Contributed to overall package structure and successfully merged the development branch<br><br>
-  <strong>Personal commits</strong> visible on the repository and and a name mentioned in several code files I’ve worked on (functions, vignettes, etc.).
+  <strong>Personal commits</strong> visible on the repository and my name mentioned in several code files I’ve worked on (functions, vignettes, etc.).
 </div>
 
 <p class="kb-section-label">✦ Outputs & Links</p>

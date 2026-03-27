@@ -253,10 +253,20 @@ redirect_from:
 
 <div class="kb-timeline-item">
   <div class="kb-timeline-degree">Volunteer Crew &amp; Research Support</div>
-  <div class="kb-timeline-institution">Sea Shepherd France — Greek waters, French Guiana, Brazil, Antarctica (upcoming)</div>
+  <div class="kb-timeline-institution">Sea Shepherd France — Greek waters, French Guiana, Brazil</div>
   <div class="kb-timeline-date">July 2025 – October 2025</div>
   <div class="kb-timeline-detail">
     Crew member (deck, machinery, navigation) and support for media/communication and ecological policy work.
+  </div>
+</div>
+
+<div class="kb-timeline-item">
+  <div class="kb-timeline-degree">Volunteer Field Worker</div>
+  <div class="kb-timeline-institution">BlazeAid — Stanthorpe, Queensland, Australia</div>
+  <div class="kb-timeline-date">June – September 2024</div>
+  <div class="kb-timeline-detail">
+    Contributed to the recovery of farms devastated by bushfires and floods through carpentry, fencing, and infrastructure repair. 
+    Worked in a team-based, physically demanding environment, strengthening resilience, adaptability, and practical problem-solving skills.
   </div>
 </div>
 

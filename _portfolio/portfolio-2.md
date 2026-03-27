@@ -114,4 +114,4 @@ My contributions were merged from my development branch (`develKGB`) and are vis
   🏠 Official repository (SpatialPlanning organisation)
 </a>
 
-*Note: The package is still under active development. Full source code and technical details available upon request.*
+*Note: The package is still under active development. Full source code and technical details available upon request to the Spatial Planning Team at UQ (See official documentation above).*

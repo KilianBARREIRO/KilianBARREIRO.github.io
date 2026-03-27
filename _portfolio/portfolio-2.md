@@ -1,6 +1,6 @@
 ---
 title: "spatialplanr — R Package for Spatial Conservation Planning"
-excerpt: "Participation in the development of an open-source R package to streamline spatial conservation planning workflows using prioritizr at the Mathematical Marine Ecology Lab (University of Queensland, Brisbane).<br/><img src='/images/portfolio_spatialplanr_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Participation in the development of an open-source R package to streamline spatial conservation planning workflows using prioritizr at the Mathematical Marine Ecology Lab ( *University of Queensland, Brisbane* ).<br/><img src='/images/portfolio_spatialplanr_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 

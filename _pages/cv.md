@@ -263,7 +263,7 @@ redirect_from:
 <div class="kb-timeline-item">
   <div class="kb-timeline-degree">Volunteer Field Worker</div>
   <div class="kb-timeline-institution">BlazeAid — Stanthorpe, Queensland, Australia</div>
-  <div class="kb-timeline-date">June – September 2024</div>
+  <div class="kb-timeline-date">June 2024 – September 2024</div>
   <div class="kb-timeline-detail">
     Contributed to the recovery of farms devastated by bushfires and floods through carpentry, fencing, and infrastructure repair. 
     Worked in a team-based, physically demanding environment, strengthening resilience, adaptability, and practical problem-solving skills.

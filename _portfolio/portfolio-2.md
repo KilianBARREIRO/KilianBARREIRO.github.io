@@ -70,7 +70,7 @@ collection: portfolio
 **Research Assistant – Mathematical Marine Ecology Lab (MME Lab), University of Queensland**
 
 *December 2023 – May 2024*  
-*Supervision: Anthony Richardson & Jason Everett*
+*Supervision: Dr. Anthony Richardson & Dr. Jason Everett*
 
 I contributed to the development of **spatialplanr**, an open-source R package designed to simplify and standardise spatial conservation planning workflows. Built on top of the `prioritizr` package, it facilitates data preparation, analysis execution, and visualisation for students and researchers.
 

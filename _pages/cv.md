@@ -299,10 +299,11 @@ redirect_from:
 <div class="kb-achieve-grid">
   <span class="kb-achieve-tag">Summer School — Marine Protected Areas (Marseille, 2023)</span>
   <span class="kb-achieve-tag">Open Water Diver</span>
-  <span class="kb-achieve-tag">Boat licence (côtier)</span>
+  <span class="kb-achieve-tag">Boat licence (coastal)</span>
   <span class="kb-achieve-tag">Motorcycle licence</span>
   <span class="kb-achieve-tag">Driving licence (manual)</span>
   <span class="kb-achieve-tag">BAFA</span>
   <span class="kb-achieve-tag">BIA</span>
   <span class="kb-achieve-tag">PSC1 (first aid)</span>
+  <span class="kb-achieve-tag">French Conservatory Classical Guitar (2nd cycle)</span>
 </div>

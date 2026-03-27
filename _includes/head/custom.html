@@ -1,19 +1,29 @@
 {% include base_path %}
+{% seo %}
+
+<!-- Custom meta tags for better SEO -->
+<meta name="keywords" content="Kilian Barreiro, computational biology, spatial conservation planning, prioritizr, marine ecology, R package development, biodiversity analysis, French Polynesia, mathematical biology">
+
+<!-- Open Graph & Twitter Cards -->
+<meta property="og:image" content="{{ base_path }}/images/profilepic.jpg">
+<meta property="og:image:alt" content="Kilian Barreiro Profile Picture">
+<meta name="twitter:card" content="summary_large_image">
 
 <!-- start custom head snippets -->
-
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
+<link rel="icon" href="{{ base_path }}/images/favicon.ico"/>
+
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Custom CSS -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <!-- end custom head snippets -->

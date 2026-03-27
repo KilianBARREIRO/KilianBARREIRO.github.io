@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Home Page"
 title_separator          : "-"
-name                     : &name "Kilian BARREIRO"
+name                     : &name "Kilian Barreiro"
 description              : &description "Mathematical & Computational Biologist — Marine Biogeography, Spatial Ecology & Applied Mathematics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kilianbarreiro.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,11 +24,11 @@ repository               : "KilianBARREIRO/KilianBARREIRO.github.io"
 author:
   # Biographic information
   avatar           : "profilepic.jpg"
-  name             : "Kilian BARREIRO"
+  name             : "Kilian Barreiro"
   pronouns         : # example: "she/her"  
   bio              : "Research Collaborator"
   location         : "France"
-  employer         : "Aix-Marseille University"
+  employer         : # ""
   uri              : # URL
   email            : "kiliangrihaultbarreiro@gmail.com" 
 
@@ -315,6 +315,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:

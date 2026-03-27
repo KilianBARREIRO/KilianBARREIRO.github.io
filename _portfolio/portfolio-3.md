@@ -1,6 +1,6 @@
 ---
 title: "Island Biogeography — Biodiversity Patterns in French Polynesia"
-excerpt: "First curated biogeographic dataset and master thesis for marine and terrestrial animal species across 119 islands and atolls of French Polynesia, with bias quantification and multi-scale biodiversity analyses (Ifremer Pacific Center, RMPF Unity, Tahiti).<br/><img src='/images/portfolio_m2internship_display.jpeg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>Taxonomic bias assessment. (A) Major class representation in sampling effort (i.e., observed - ideal). Over- and under-representation of each class are illustrated by the green and orange bars respectively. An inverse hyperbolic-sine transformation was used for the x-axis."
+excerpt: "First curated biogeographic dataset and master thesis for marine and terrestrial animal species across 119 islands and atolls of French Polynesia, with bias quantification and multi-scale biodiversity analyses ( *Ifremer Pacific Center, Tahiti* ).<br/><img src='/images/portfolio_m2internship_display.jpeg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>Taxonomic bias assessment. Major class representation in sampling effort (i.e., observed - ideal). Over- and under-representation of each class are illustrated by the green and orange bars respectively. An inverse hyperbolic-sine transformation was used for the x-axis."
 collection: portfolio
 ---
 

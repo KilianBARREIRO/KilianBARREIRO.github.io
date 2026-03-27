@@ -1,6 +1,6 @@
 ---
 title: "spatialplanr — R Package for Spatial Conservation Planning"
-excerpt: "Participation in the development of an open-source R package to streamline spatial conservation planning workflows using prioritizr at the Mathematical Marine Ecology Lab (University of Queensland).<br/><img src='/images/portfolio_spatialplanr_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Participation in the development of an open-source R package to streamline spatial conservation planning workflows using prioritizr at the Mathematical Marine Ecology Lab (University of Queensland, Brisbane).<br/><img src='/images/portfolio_spatialplanr_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 
@@ -68,9 +68,10 @@ collection: portfolio
 
 <p class="kb-section-label">✦ Context</p>
 **Research Assistant – Mathematical Marine Ecology Lab (MME Lab), University of Queensland**  
-*Duration: 6 months (early 2024)*
+*December 2023 - May 2024*
+*Supervision: Anthony Richardson & Jason Everett*
 
-I contributed to the development of **spatialplanr**, an open-source R package designed to simplify and standardise spatial conservation planning workflows within the lab. Built on top of the `prioritizr` package, it facilitates data preparation, analysis execution, and visualisation for students and researchers at the MME Lab.
+I contributed to the development of **spatialplanr**, an open-source R package designed to simplify and standardise spatial conservation planning workflows. Built on top of the `prioritizr` package, it facilitates data preparation, analysis execution, and visualisation for students and researchers.
 
 My contributions were merged from my development branch (`develKGB`) and are visible in the repository history.
 

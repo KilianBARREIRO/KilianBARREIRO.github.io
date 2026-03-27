@@ -182,6 +182,49 @@ redirect_from:
 
 ---
 
+<p class="kb-section-label">✦ Research Experience</p>
+
+<div class="kb-timeline-item">
+  <div class="kb-timeline-degree">Research Contributor — Origins of Life Project</div>
+  <div class="kb-timeline-institution">University of Aberdeen, School of Natural & Computing Sciences · Scotland</div>
+  <div class="kb-timeline-date">May 2025 – July 2025 · Supervisor: Dr. Juliano Morimoto</div>
+  <div class="kb-timeline-detail"><ul>
+    <li>Developed custom R & Python tools for simulating prebiotic RNA strand generation and evolution.</li>
+    <li>Modelled emergence of functional sequences to explore plausible origins of life.</li>
+  </ul></div>
+</div>
+
+<div class="kb-timeline-item">
+  <div class="kb-timeline-degree">Research Assistant — Spatial Ecology &amp; Conservation Planning</div>
+  <div class="kb-timeline-institution">University of Queensland · WAITT Foundation, Brisbane · Australia</div>
+  <div class="kb-timeline-date">December 2023 – May 2024 · Supervisor: Prof. Anthony Richardson</div>
+  <div class="kb-timeline-detail"><ul>
+    <li>Built and optimised Shiny dashboards and R packages for large-scale spatial analysis and conservation planning.</li>
+    <li>Handled vector/raster data processing, projection issues, parallelisation and input validation.</li>
+  </ul></div>
+</div>
+
+<div class="kb-timeline-item">
+  <div class="kb-timeline-degree">Master Thesis Research Placement — Island Biogeography &amp; Big Data</div>
+  <div class="kb-timeline-institution">Ifremer Pacific Center (PDG-RBE-RMPF) · Tahiti, French Polynesia</div>
+  <div class="kb-timeline-date">May 2023 – October 2023 · Supervisor: Dr. Cristián Monaco</div>
+  <div class="kb-timeline-detail"><ul>
+    <li>Analysed marine and terrestrial biodiversity patterns across fragmented island systems using GBIF &amp; OBIS.</li>
+    <li>Quantified data biases and produced the first open biogeographic dataset for French Polynesia.</li>
+  </ul></div>
+</div>
+
+<div class="kb-timeline-item">
+  <div class="kb-timeline-degree">Master Research Placement — Aquaculture Modelling</div>
+  <div class="kb-timeline-institution">Ifremer Palavas · L3AS Lab, France</div>
+  <div class="kb-timeline-date">May 2022 – August 2022 · Supervisor: Dr. Myriam Callier</div>
+  <div class="kb-timeline-detail"><ul>
+    <li>Validated and improved a Python particle-tracking model of aquaculture waste dispersal.</li>
+  </ul></div>
+</div>
+
+---
+
 <p class="kb-section-label">✦ Education</p>
 
 <div class="kb-timeline-item">
@@ -202,49 +245,6 @@ redirect_from:
     Foundations in mathematical analysis, logic, calculus, physics and mechanics.
     Graduated with honours.
   </div>
-</div>
-
----
-
-<p class="kb-section-label">✦ Research Experience</p>
-
-<div class="kb-timeline-item">
-  <div class="kb-timeline-degree">Research Contributor — Origins of Life Project</div>
-  <div class="kb-timeline-institution">University of Aberdeen, School of Natural & Computing Sciences · Scotland</div>
-  <div class="kb-timeline-date">January 2025 – July 2025 · Supervisor: Dr. Juliano Morimoto</div>
-  <div class="kb-timeline-detail"><ul>
-    <li>Developed custom Python tools for simulating prebiotic RNA strand generation and evolution.</li>
-    <li>Modelled emergence of functional sequences to explore plausible origins of life.</li>
-  </ul></div>
-</div>
-
-<div class="kb-timeline-item">
-  <div class="kb-timeline-degree">Research Assistant — Spatial Ecology &amp; Conservation Planning</div>
-  <div class="kb-timeline-institution">University of Queensland · WAITT Foundation, Brisbane · Australia</div>
-  <div class="kb-timeline-date">December 2023 – May 2024 · Supervisor: Prof. Anthony Richardson</div>
-  <div class="kb-timeline-detail"><ul>
-    <li>Built and optimised Shiny dashboards and R packages for large-scale spatial analysis and conservation planning.</li>
-    <li>Handled vector/raster data processing, projection issues, parallelisation and input validation.</li>
-  </ul></div>
-</div>
-
-<div class="kb-timeline-item">
-  <div class="kb-timeline-degree">Master Thesis Intern — Island Biogeography &amp; Big Data</div>
-  <div class="kb-timeline-institution">Ifremer Pacific Center (PDG-RBE-RMPF) · Tahiti, French Polynesia</div>
-  <div class="kb-timeline-date">May 2023 – October 2023 · Supervisor: Dr. Cristián Monaco</div>
-  <div class="kb-timeline-detail"><ul>
-    <li>Analysed marine and terrestrial biodiversity patterns across fragmented island systems using GBIF &amp; OBIS.</li>
-    <li>Quantified data biases and produced the first open biogeographic dataset for French Polynesia.</li>
-  </ul></div>
-</div>
-
-<div class="kb-timeline-item">
-  <div class="kb-timeline-degree">Master Intern — Aquaculture Modelling</div>
-  <div class="kb-timeline-institution">Ifremer Palavas · L3AS Lab, France</div>
-  <div class="kb-timeline-date">May 2022 – August 2022 · Supervisor: Dr. Myriam Callier</div>
-  <div class="kb-timeline-detail"><ul>
-    <li>Validated and improved a Python particle-tracking model of aquaculture waste dispersal.</li>
-  </ul></div>
 </div>
 
 ---

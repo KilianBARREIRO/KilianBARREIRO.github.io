@@ -117,7 +117,7 @@ redirect_from:
 </style>
 
 <p class="kb-eyebrow">Mathematical &amp; Computational Biologist</p>
-<h1 class="kb-hero-name">Kilian BARREIRO</h1>
+<h1 class="kb-hero-name">Kilian Barreiro</h1>
 <p class="kb-tagline">
   Exploring the interfaces between mathematics, physics, and life sciences —
   from marine biogeography to computational neuroscience.

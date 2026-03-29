@@ -70,7 +70,7 @@ collection: portfolio
 *Application submitted 2025 – Hosting: ECOMAD team (MIO, Aix-Marseille University)*  
 *Supervision: Dr. Vincent Rossi (CNRS-MIO), Pr. Valeriano Parravicini (EPHE/CRIOBE), Dr. Vincent Calcagno (INRAE-ISA)*
 
-I designed a mechanistic modelling PhD project that uses **advection-diffusion-reaction (ADR)** models to quantify how mid-to-high trophic level marine vertebrates (fish, turtles, seabirds) respond to key oceanic structures (thermal fronts, Lagrangian coherent structures, eddies, currents, bathymetry) in the South-West Indian Ocean (SWIO). The central question is: “How do marine organisms respond differently to oceanic structures in the SWIO, and what are the implications of these species-specific sensitivities for regional connectivity patterns and population persistence under current and future climate conditions?”
+I planned to design a mechanistic modelling PhD project that uses **advection-diffusion-reaction (ADR)** models to quantify how mid-to-high trophic level marine vertebrates (fish, turtles, seabirds) respond to key oceanic structures (thermal fronts, Lagrangian coherent structures, eddies, currents, bathymetry) in the South-West Indian Ocean (SWIO). The central question is: “How do marine organisms respond differently to oceanic structures in the SWIO, and what are the implications of these species-specific sensitivities for regional connectivity patterns and population persistence under current and future climate conditions?”
 
 The thesis title is:  
 **“From reef to open ocean: multi-vertebrate responses to oceanic structures in the SWIO and their connectivity implications under climate change – a mechanistic approach with ADR modelling”**

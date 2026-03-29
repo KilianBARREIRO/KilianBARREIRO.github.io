@@ -111,4 +111,4 @@ The thesis title is:
   🌊 PEPR BRIDGES programme
 </a>
 
-*Note: This PhD proposal was submitted in February 2026 but was not selected for the BRIDGES "Grappes de thèse" PhD program. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file.*
+*Note: This PhD proposal was submitted in February 2026 for the BRIDGES "Grappes de thèse" PhD program. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file.*

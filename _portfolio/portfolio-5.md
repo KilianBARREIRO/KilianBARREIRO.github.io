@@ -109,4 +109,4 @@ This research proposes a novel **“Ecological Geometry”** framework that move
   🏛️ Queensland University of Technology (QUT)
 </a>
 
-*Note: This PhD proposal was submitted in October 2024 but was not selected for the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above.*
+*Note: This PhD proposal was submitted in October 2024 for the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above.*

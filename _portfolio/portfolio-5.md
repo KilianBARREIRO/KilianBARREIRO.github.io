@@ -108,8 +108,5 @@ This research proposes a novel **“Ecological Geometry”** framework that move
 <a class="kb-download" href="https://www.qut.edu.au/">
   🏛️ Queensland University of Technology (QUT)
 </a>
-<a class="kb-download" href="https://research.qut.edu.au/mmelab/">
-  🧬 Mathematical Marine Ecology Lab (MME Lab)
-</a>
 
-*Note: The project is currently under review for entry into the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above. Open-source code and algorithms will be released publicly upon project commencement.*
+*Note: This PhD proposal was submitted in October 2024 but was not selected for the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above. Open-source code and algorithms will be released publicly upon project commencement.*

@@ -101,7 +101,9 @@ The thesis title is:
 </div>
 
 <p class="kb-section-label">✦ Outputs & Links</p>
-href="/files/Portfolio_ResearchProposal_BRIDGES.pdf"
+<a class="kb-download" href="/files/Portfolio_ResearchProposal_BRIDGES.pdf">
+  📄 Full research proposal (PDF)
+</a>
 <a class="kb-download" href="https://www.mio.osupytheas.fr/">
   🏛️ Hosting lab – Mediterranean Institute of Oceanography (MIO)
 </a>
@@ -109,4 +111,4 @@ href="/files/Portfolio_ResearchProposal_BRIDGES.pdf"
   🌊 PEPR BRIDGES programme
 </a>
 
-*Note: The project is currently under review. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file. Open-source modelling code and results will be released publicly upon project start, in line with FAIR principles.*
+*Note: This PhD proposal was submitted in February 2026 but was not selected for the BRIDGES "Grappes de thèse" PhD program. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file. Open-source modelling code and results will be released publicly upon project start, in line with FAIR principles.*

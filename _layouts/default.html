@@ -28,13 +28,18 @@ layout: compress
     {% include scripts.html %}
 
 <script>
-  // Ouvre tous les liens externes dans un nouvel onglet
+  // Ouvre automatiquement les liens externes + les fichiers PDF dans un nouvel onglet
   document.addEventListener('DOMContentLoaded', () => {
-    const links = document.querySelectorAll('a[href^="http"]');
-    
-    links.forEach(link => {
-      // Si le lien ne pointe pas vers TON domaine
-      if (!link.href.includes(window.location.hostname)) {
+    document.querySelectorAll('a').forEach(link => {
+      const href = link.getAttribute('href') || '';
+
+      // Cas 1 : Liens externes (http/https vers un autre site)
+      const isExternal = (href.startsWith('http') && !href.includes(window.location.hostname));
+
+      // Cas 2 : Liens vers tes fichiers PDF ou /files/
+      const isFile = href.startsWith('/files/') || href.endsWith('.pdf');
+
+      if (isExternal || isFile) {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
       }

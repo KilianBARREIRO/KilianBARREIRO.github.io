@@ -30,8 +30,10 @@
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('a[href^="http"]').forEach(function(link) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener');
+      if (!link.href.startsWith('https://kilianbarreiro.github.io')) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener');
+      }
     });
   });
 </script>

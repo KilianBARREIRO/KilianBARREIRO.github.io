@@ -107,7 +107,7 @@ The thesis title is:
 <a class="kb-download" href="https://www.mio.osupytheas.fr/">
   🏛️ Hosting lab – Mediterranean Institute of Oceanography (MIO)
 </a>
-<a class="kb-download" href="https://pepr-bridges.fr/">
+<a class="kb-download" href="https://www.bridges-wio.com/phd-clusters/">
   🌊 PEPR BRIDGES programme
 </a>
 

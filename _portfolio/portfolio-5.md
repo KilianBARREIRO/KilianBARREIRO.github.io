@@ -1,6 +1,6 @@
 ---
 title: "PhD proposal - Ecological Geometry"
-excerpt: "Applying geometric and topological concepts to model complex species interactions and uncover hidden patterns in ecological networks – PhD research proposal for QUT Mathematical Sciences.<br/><img src='/images/portfolio_ecogeom_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Applying geometric and topological concepts to model complex species interactions and uncover hidden patterns in ecological networks – PhD research proposal for QUT Mathematical Sciences.<br/><img src='/images/EcoGeomIA.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 <style>
@@ -109,4 +109,4 @@ This research proposes a novel **“Ecological Geometry”** framework that move
   🏛️ Queensland University of Technology (QUT)
 </a>
 
-*Note: This PhD proposal was submitted in October 2024 but was not selected for the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above. Open-source code and algorithms will be released publicly upon project commencement.*
+*Note: This PhD proposal was submitted in October 2024 but was not selected for the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above.*

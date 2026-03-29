@@ -1,6 +1,6 @@
 ---
 title: "PhD proposal - ADR models applied in the SWIO to assess biogeography"
-excerpt: "Mechanistic Advection-Diffusion-Reaction (ADR) modelling of multi-vertebrate responses to oceanic structures (fronts, eddies, currents) in the South-West Indian Ocean and their connectivity implications under climate change – PhD thesis proposal for PEPR BRIDGES.<br/><img src='/images/portfolio_adr_swio_display.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Mechanistic Advection-Diffusion-Reaction (ADR) modelling of multi-vertebrate responses to oceanic structures (fronts, eddies, currents) in the South-West Indian Ocean and their connectivity implications under climate change – PhD thesis proposal for PEPR BRIDGES.<br/><img src='/images/Conceptual_PhD_Scheme.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 <style>
@@ -111,4 +111,4 @@ The thesis title is:
   🌊 PEPR BRIDGES programme
 </a>
 
-*Note: This PhD proposal was submitted in February 2026 but was not selected for the BRIDGES "Grappes de thèse" PhD program. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file. Open-source modelling code and results will be released publicly upon project start, in line with FAIR principles.*
+*Note: This PhD proposal was submitted in February 2026 but was not selected for the BRIDGES "Grappes de thèse" PhD program. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file.*

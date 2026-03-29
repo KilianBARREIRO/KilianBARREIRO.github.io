@@ -102,7 +102,7 @@ This research proposes a novel **“Ecological Geometry”** framework that move
 </div>
 
 <p class="kb-section-label">✦ Outputs & Links</p>
-<a class="kb-download" href="/files/Research Proposal - Kilian_Barreiro - Mathematical Ecology - QUT.pdf">
+<a class="kb-download" href="/files/Portfolio_ResearchProposal_QUT.pdf">
   📄 Full research proposal (PDF)
 </a>
 <a class="kb-download" href="https://www.qut.edu.au/">
@@ -111,4 +111,5 @@ This research proposes a novel **“Ecological Geometry”** framework that move
 <a class="kb-download" href="https://research.qut.edu.au/mmelab/">
   🧬 Mathematical Marine Ecology Lab (MME Lab)
 </a>
+
 *Note: The project is currently under review for entry into the IF49 PhD program. Full proposal (including detailed methods, 3-year timeline, references, and alignment with national priorities in mathematical biology) is attached above. Open-source code and algorithms will be released publicly upon project commencement.*

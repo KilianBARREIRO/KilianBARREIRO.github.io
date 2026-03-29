@@ -101,11 +101,12 @@ The thesis title is:
 </div>
 
 <p class="kb-section-label">✦ Outputs & Links</p>
-href="/files/B-MACRES - Kilian BARREIRO - PhD Application File.pdf"
+href="/files/Portfolio_ResearchProposal_BRIDGES.pdf"
 <a class="kb-download" href="https://www.mio.osupytheas.fr/">
   🏛️ Hosting lab – Mediterranean Institute of Oceanography (MIO)
 </a>
 <a class="kb-download" href="https://pepr-bridges.fr/">
   🌊 PEPR BRIDGES programme
 </a>
+
 *Note: The project is currently under review. Full scientific description, methods, timetable, risks/mitigations and 24 bibliographical references are detailed in the attached application file. Open-source modelling code and results will be released publicly upon project start, in line with FAIR principles.*

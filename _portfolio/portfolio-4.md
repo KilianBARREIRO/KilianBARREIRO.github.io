@@ -101,7 +101,7 @@ The thesis title is:
 </div>
 
 <p class="kb-section-label">✦ Outputs & Links</p>
-C:/Users/Kilia/Downloads/B-MACRES - Kilian BARREIRO - PhD Application File.pdf
+href="/files/B-MACRES - Kilian BARREIRO - PhD Application File.pdf"
 <a class="kb-download" href="https://www.mio.osupytheas.fr/">
   🏛️ Hosting lab – Mediterranean Institute of Oceanography (MIO)
 </a>

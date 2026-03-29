@@ -28,14 +28,16 @@
 
 <!-- Open extra window after click -->
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
+  function openExternalLinks() {
     document.querySelectorAll('a[href^="http"]').forEach(function(link) {
       if (!link.href.startsWith('https://kilianbarreiro.github.io')) {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener');
       }
     });
-  });
+  }
+  document.addEventListener('DOMContentLoaded', openExternalLinks);
+  window.addEventListener('load', openExternalLinks);
 </script>
 
 <!-- end custom head snippets -->

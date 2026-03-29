@@ -27,5 +27,20 @@ layout: compress
 
     {% include scripts.html %}
 
+<script>
+  // Ouvre tous les liens externes dans un nouvel onglet
+  document.addEventListener('DOMContentLoaded', () => {
+    const links = document.querySelectorAll('a[href^="http"]');
+    
+    links.forEach(link => {
+      // Si le lien ne pointe pas vers TON domaine
+      if (!link.href.includes(window.location.hostname)) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });
+</script>
+
   </body>
 </html>

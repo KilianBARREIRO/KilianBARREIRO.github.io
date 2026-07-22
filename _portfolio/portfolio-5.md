@@ -1,6 +1,6 @@
 ---
 title: "PhD proposal - Ecological Geometry"
-excerpt: "Applying geometric and topological concepts to model complex species interactions and uncover hidden patterns in ecological networks – PhD research proposal for QUT Mathematical Sciences.<br/><img src='/images/EcoGeomIA.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Applying geometric and topological concepts to model complex species interactions and uncover hidden patterns in ecological networks – PhD research proposal for QUT Mathematical Sciences  ( *QUT, Brisbane, AUS* ).<br/><img src='/images/EcoGeomIA.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 <style>

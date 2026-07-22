@@ -1,6 +1,6 @@
 ---
 title: "PhD proposal - ADR models & Biogeography"
-excerpt: "Mechanistic Advection-Diffusion-Reaction (ADR) modelling of multi-vertebrate responses to oceanic structures (fronts, eddies, currents) in the South-West Indian Ocean and their connectivity implications under climate change – PhD thesis proposal for PEPR BRIDGES.<br/><img src='/images/Conceptual_PhD_Scheme.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
+excerpt: "Mechanistic Advection-Diffusion-Reaction (ADR) modelling of multi-vertebrate responses to oceanic structures (fronts, eddies, currents) in the South-West Indian Ocean and their connectivity implications under climate change – PhD thesis proposal for PEPR BRIDGES ( *Mediterranean Institute of Oceanography, Marseille* ).<br/><img src='/images/Conceptual_PhD_Scheme.jpg' width='500' height='300' style='display: block; clear: both; margin: 12px 0 12px 0;'>"
 collection: portfolio
 ---
 <style>

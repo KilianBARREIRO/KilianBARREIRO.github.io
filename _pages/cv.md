@@ -253,7 +253,7 @@ redirect_from:
 
 <div class="kb-timeline-item">
   <div class="kb-timeline-degree">Marine Conservation Volunteer Crew</div>
-  <div class="kb-timeline-institution">COP 30 — Greek waters, French Guiana, Brazil</div>
+  <div class="kb-timeline-institution">COP 30 — Brazil</div>
   <div class="kb-timeline-date">July 2025 – October 2025</div>
   <div class="kb-timeline-detail">
     Crew member (deck, machinery, navigation) and support for media/communication and ecological policy work.

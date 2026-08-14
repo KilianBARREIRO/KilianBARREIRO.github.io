@@ -120,7 +120,7 @@ redirect_from:
 <h1 class="kb-hero-name">Kilian Barreiro</h1>
 <p class="kb-tagline">
   Exploring the interfaces between mathematics, physics, and life sciences —
-  from marine biogeography to computational neuroscience.
+  from general theoretical ecology to specific biogeographical and spatial problems.
 </p>
 
 ---
@@ -129,7 +129,7 @@ redirect_from:
 
 ## Where equations meet ecosystems
 
-My work sits at the crossroads of formal mathematics and the living world. I am fascinated by the spatial and temporal patterns that emerge from ecological, neurological, and nutritional systems — and by the mathematical frameworks that can reveal their underlying logic.
+My work sits at the crossroads of formal mathematics and the living world. I am fascinated by the spatial and temporal patterns that emerge from ecological systems — and by the mathematical frameworks that can reveal their underlying logic.
 
 <div class="kb-tags">
   <span class="kb-tag">Spatial Ecology</span>
